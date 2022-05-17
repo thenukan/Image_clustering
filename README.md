@@ -1,4 +1,4 @@
-# Image_clustering
+# flower  image_clustering
 
 pre trained model which used in this code is VGG16 convolutional neural network (CNN) 
 
